@@ -45,7 +45,7 @@ function und1(a) {
 }
 
 
-let is = {
+export let is = {
     arr,
     arr1,
     obj,
